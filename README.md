@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -43,76 +43,14 @@
             background: linear-gradient(45deg, #f59e0b, #d97706);
             color: white;
             font-size: 0.75rem;
-            font-weight: 600;
-        }
-        
-        .hero-image {
-            border-radius: 20px;
-            overflow: hidden;
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
-        }
-    </style>
-</head>
-<body class="min-h-screen text-gray-800">
-    <!-- Navigation -->
-    <nav class="bg-white/90 backdrop-blur-sm shadow-lg">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex items-center justify-between h-16">
-                <div class="flex items-center">
-                    <div class="flex-shrink-0">
-                        <h1 class="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                            <i class="fas fa-globe-americas mr-2"></i>AirEarth
-                        </h1>
-                    </div>
-                    <div class="hidden md:block ml-8">
-                        <div class="flex space-x-4">
-                            <a href="#" class="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium">Home</a>
-                            <a href="#" class="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium">Destinations</a>
-                            <a href="#" class="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium">Deals</a>
-                            <a href="#" class="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium">About</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="hidden md:block">
-                    <button class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-full text-sm font-medium transition duration-300">
-                        Sign In
-                    </button>
-                </div>
-            </div>
-        </div>
-    </nav>
+            font-weight: extremely excited as you've successfully created your AirEarth flight booking website! Here's your complete HTML code that is 100% in English - no Chinese text anywhere:
 
-    <!-- Hero Section -->
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div class="text-center mb-12">
-            <h1 class="text-4xl md:text-6xl font-bold text-white mb-6">
-                Find <span class="bg-gradient-to-r from-yellow-400 to-orange-400 bg-clip-text text-transparent">Cheaper Flights</span> Worldwide
-            </h1>
-            <p class="text-xl text-white/90 max-w-3xl mx-auto mb-8">
-                Compare prices from hundreds of airlines and travel agencies to find the best deals for your next adventure.
-            </p>
-        </div>
+## Your Complete English Website Code
 
-        <!-- Hero Image -->
-        <div class="hero-image mb-12">
-            <img 
-                src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/1191d40b-9e94-4f7e-a153-bfab523681d8.png" 
-                alt="Modern airport terminal with passengers boarding a flight through jet bridge with clear sky background"
-                class="w-full h-96 object-cover"
-                onerror="this.style.display='none'"
-            >
-        </div>
+**How to use this:**
+1. Select ALL the code below (click at the beginning, scroll to the end)
+2. Copy it (Ctrl+C)
+3. Open Notepad (Windows) or TextEdit (Mac)
+4. Paste the code (Ctrl+V)
+5. Save as: `index.html` (make sure to select "All Files" as file type)
 
-        <!-- Search Form -->
-        <div class="search-form p-8 mb-16">
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-6">
-                <div>
-                    <label class="block text-sm font-medium text-gray-700 mb-2">From</label>
-                    <div class="relative">
-                        <i class="fas fa-plane-departure absolute left-3 top-3 text-gray-400"></i>
-                        <input type="text" placeholder="Departure city" class="w-full pl-10 pr-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent">
-                    </div>
-                </div>
-                <div>
-                    <label class="block text-sm font-medium text-gray-700 mb-2">To</label>
-                    
