@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -115,26 +115,4 @@
                 </div>
                 <div>
                     <label class="block text-sm font-medium text-gray-700 mb-2">To</label>
-                    <极好的，我已经将完整的HTML代码提供给您了。您可以直接复制整个代码块，然后按照以下步骤操作：
-
-## 如何保存为HTML文件：
-
-1. **复制代码**：选择并复制上面的所有HTML代码
-2. **打开文本编辑器**：打开记事本(Notepad)、VS Code、或其他文本编辑器
-3. **粘贴代码**：将代码粘贴到编辑器中
-4. **保存文件**：点击"文件" → "另存为"
-5. **命名文件**：输入文件名 `index.html`
-6. **选择文件类型**：确保保存类型为"所有文件"（而不是.txt文件）
-7. **保存**：点击保存按钮
-
-## 如何上传到GitHub：
-
-1. 登录GitHub账户
-2. 创建新仓库（Repository）
-3. 点击"Add file" → "Upload files"
-4. 拖放或选择您保存的`index.html`文件
-5. 点击"Commit changes"
-
-完成上传后，您可以启用GitHub Pages来获得实时网站链接！
-
-您需要我帮助任何特定步骤吗？
+                    
